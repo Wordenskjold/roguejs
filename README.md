@@ -1,0 +1,4 @@
+roguejs
+=======
+
+Javascript architectural framework
