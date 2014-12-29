@@ -1,0 +1,15 @@
+{
+  "name": "Roguejs Mediator Extension",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Wordenskjold/roguejs",
+  "authors": [
+    "Frederik Wordenskjold <frederik@dinero.dk>"
+  ],
+  "private": true,
+  "ignore": [
+    "bower_components"
+  ],
+  "dependencies": {
+    "eventemitter2": "~0.4.14"
+  }
+}
